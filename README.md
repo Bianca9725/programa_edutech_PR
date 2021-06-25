@@ -1,2 +1,2 @@
-# programa_edutech_PR
+# programa_edutech_pr1
 Projeto de Logica 2 HTML
